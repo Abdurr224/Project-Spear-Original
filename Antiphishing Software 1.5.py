@@ -51,7 +51,7 @@ def URL():
 
  
 def Domnotification():
-    toast = Notification(app_id= "Whale AntiPhishing Software©",
+    toast = Notification(app_id= "Spear AntiPhishing Software©",
                          title = "Suspicious Content Detected",
                          msg = "Scan Has Detected Phishing Emails",
                          duration = "short",
@@ -60,7 +60,7 @@ def Domnotification():
     toast.show()                         
 
 def Linknotification():
-    toast = Notification(app_id= "Whale AntiPhishing Software©",
+    toast = Notification(app_id= "Spear AntiPhishing Software©",
                          title = "Suspicious Content Detected",
                          msg = "Scan Has Detected Phishing Links",
                          duration = "short",
