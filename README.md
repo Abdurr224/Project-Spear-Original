@@ -7,13 +7,13 @@ This project is the final year artefact for preventing external threats.
 
 Spear Phishing Prevention Software: To identify and classify staff of high data/clearance access. Emails are scanned for social engineering via coercive words/ phrases, suspicious domains and links.  (External)
 
-Technical Objectives
+Technical Objectives:
 
-= User and Role Identification 
-= Identify Sender Against Database Log
-= Link/Word/Phrase Check
-= Flag Detected Domain/Link/Word/Phrase
-= Notification on Detection
+- User and Role Identification 
+- Identify Sender Against Database Log
+- Link/Word/Phrase Check
+- Flag Detected Domain/Link/Word/Phrase
+- Notification on Detection
 
 
 
