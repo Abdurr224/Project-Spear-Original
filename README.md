@@ -1,6 +1,8 @@
 # Project-Spear-Original
 
 
+![images](https://github.com/Abdurr224/Project-Spear-Original/assets/166424757/ad3b5fb1-92fc-47aa-b4ae-5f5226219427)
+
 This project is the final year artefact for preventing external threats.
 
 Spear Phishing Prevention Software: To identify and classify staff of high data/clearance access. Emails are scanned for social engineering via coercive words/ phrases, suspicious domains and links.  (External)
@@ -15,7 +17,7 @@ Technical Objectives
 
 
 
-![images](https://github.com/Abdurr224/Project-Spear-Original/assets/166424757/7a945c25-0a87-4f44-8799-67ea116a17e4)
+
 
 
 
